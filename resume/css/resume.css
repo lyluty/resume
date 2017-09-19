@@ -1,0 +1,56 @@
+body {
+    font: 14px/1.8 Arial, Helvetica, sans-serif;
+}
+
+.frame {
+    width: 800px;
+    margin: 0 auto;
+    border: 1px solid #aaa000;
+}
+
+.header {
+    padding: 40px 10px;
+    text-align: center;
+    background: #eee000;
+    margin-bottom: 20px;
+}
+
+.nav {
+    float: left;
+    width: 150px;
+    background: #333000;
+    color: #fff000;
+    margin-right: 50px;
+}
+
+.content {
+    float: left;
+    width: 600px;
+}
+
+.profile {
+    height: 200px;
+    background: rosybrown;
+}
+
+.idPicture {
+    float: left;
+    margin-right: 20px;
+}
+
+.information {
+    float: left;
+    background: slateblue;
+}
+
+.skills {
+    margin: 20px 20px 0;
+    background: steelblue;
+}
+
+.footer {
+    text-align: center;
+    border-top: 1px solid #aaa000;
+    margin: 20px 20px 0;
+    font-size: 12px;
+}
